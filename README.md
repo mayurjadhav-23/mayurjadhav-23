@@ -1,5 +1,17 @@
-Hi there, I'm Mayur Jadhav! 👋<br><br> 🚀 About Me<br>I'm a passionate IT professional with expertise in **cybersecurity**, **cloud computing**, and **UI design**. I'm constantly learning and experimenting with new technologies to enhance my skills and stay ahead in the fast-evolving tech landscape.<br><br>🌱 I’m currently deepening my knowledge in **DevOps** and exploring it's potential through hands-on projects.<br><br>🔭 I’m working on an automated auditing software solution tailored to CIS benchmarks, aiming to make cybersecurity more accessible and manageable.<br><br>💬 Ask me about **Docker**, **Kubernetes**, **PowerShell**, **Bash**, and **CIS benchmarks**.<br><br>🛠️ Skills<br>- **Languages:** Python, PowerShell, Bash, HTML, CSS<br>- **Tools & Technologies:** Docker, Kubernetes, Ansible, Git, Tailwind CSS<br>- **Areas of Expertise:** Cybersecurity, Cloud Computing, DevOps, UI/UX Design<br><br><br>🌐 Let's Connect<br>- **LinkedIn:** [Mayur Jadhav](https://www.linkedin.com/in/mayur-jadhav)<br>- **GitHub:** [mayurjadhav-23](https://github.com/mayurjadhav-23)<br><br><br>⚡ Fun Fact<br>My motto is *"Protection and innovation in perfect harmony."* I believe in creating secure, innovative solutions that make a difference.<br>
+Hi there, I'm Mayur Jadhav! 👋<br><br>
 
+🚀 About Me<br>
+I'm an aspiring **DevOps & Platform Engineer** passionate about building scalable, secure, and automated systems. My journey began in devops and has evolved into mastering tools and practices around containerization, infrastructure as code, and cloud-native architecture.<br><br>
+🔭 I’m currently working on an end-to-end DevOps project focused on container orchestration, CI/CD automation, and multi-cloud deployment strategies using Kubernetes, GitHub Actions, and Terraform.<br><br>
+👯 I’m looking to collaborate on open-source DevOps tools, infrastructure automation scripts, and cloud-native projects that aim to improve developer productivity and system reliability.<br><br>
+🤝 I’m looking for help with implementing best practices in GitOps and improving monitoring/observability stacks using Prometheus, Grafana, or the ELK Stack.<br><br>
+🌱 I’m currently learning advanced Kubernetes concepts, GitOps workflows with ArgoCD, and infrastructure provisioning using Terraform.<br><br>
+💬 Ask me about **Docker**, **Kubernetes**, **GitHub Actions**, **PowerShell**, **Bash**, **Linux systems**, and **DevSecOps** practices.<br><br>
+
+🛠️ Skills<br>
+- **Languages:** Python, PowerShell, Bash<br>
+- **Tools & Technologies:** Docker, Kubernetes, Ansible, Git, GitHub Actions, Jenkins, Terraform, ArgoCD, Helm<br>
+- **Areas of Expertise:** Cloud Computing, Linux Systems, DevOps, Infrastructure Automation<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mayurjadhav023) 
